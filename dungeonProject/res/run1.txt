@@ -1,0 +1,254 @@
+
+Enter number of rows (between 3 to 10) :4
+Enter number of columns (between 3 to 10) :6
+Enter interconnectivity:8
+Enter percentage of treasure (between 0 to 100):20
+Enter 0 for non-wrapping, 1 for wrapping :9
+Only 0 or 1 must be the input.
+Enter 0 for non-wrapping, 1 for wrapping :0
+_______________________________________________________________________
+
+Iterating through the Nodes :
+X: 0 Y: 0
+X: 1 Y: 0
+X: 2 Y: 0
+X: 3 Y: 0
+X: 4 Y: 0
+X: 5 Y: 0
+X: 0 Y: 1
+X: 1 Y: 1
+X: 2 Y: 1
+X: 3 Y: 1
+X: 4 Y: 1
+X: 5 Y: 1
+X: 0 Y: 2
+X: 1 Y: 2
+X: 2 Y: 2
+X: 3 Y: 2
+X: 4 Y: 2
+X: 5 Y: 2
+X: 0 Y: 3
+X: 1 Y: 3
+X: 2 Y: 3
+X: 3 Y: 3
+X: 4 Y: 3
+X: 5 Y: 3
+_______________________________________________________________________
+
+No. of potential paths :38
+Path start: 1, 2 >> Path end: 2, 2
+Path start: 2, 2 >> Path end: 3, 2
+Path start: 4, 1 >> Path end: 5, 1
+Path start: 5, 2 >> Path end: 5, 3
+Path start: 4, 1 >> Path end: 4, 2
+Path start: 3, 1 >> Path end: 3, 2
+Path start: 2, 0 >> Path end: 3, 0
+Path start: 3, 0 >> Path end: 4, 0
+Path start: 2, 1 >> Path end: 3, 1
+Path start: 4, 0 >> Path end: 5, 0
+Path start: 2, 1 >> Path end: 2, 2
+Path start: 5, 0 >> Path end: 5, 1
+Path start: 5, 1 >> Path end: 5, 2
+Path start: 1, 3 >> Path end: 2, 3
+Path start: 0, 2 >> Path end: 1, 2
+Path start: 3, 3 >> Path end: 4, 3
+Path start: 0, 0 >> Path end: 0, 1
+Path start: 4, 3 >> Path end: 5, 3
+Path start: 3, 2 >> Path end: 4, 2
+Path start: 1, 1 >> Path end: 2, 1
+Path start: 2, 3 >> Path end: 3, 3
+Path start: 1, 2 >> Path end: 1, 3
+Path start: 2, 0 >> Path end: 2, 1
+Path start: 0, 2 >> Path end: 0, 3
+Path start: 2, 2 >> Path end: 2, 3
+Path start: 0, 1 >> Path end: 1, 1
+Path start: 3, 2 >> Path end: 3, 3
+Path start: 4, 0 >> Path end: 4, 1
+Path start: 1, 0 >> Path end: 1, 1
+Path start: 3, 0 >> Path end: 3, 1
+Path start: 0, 3 >> Path end: 1, 3
+Path start: 0, 0 >> Path end: 1, 0
+Path start: 1, 1 >> Path end: 1, 2
+Path start: 0, 1 >> Path end: 0, 2
+Path start: 4, 2 >> Path end: 5, 2
+Path start: 3, 1 >> Path end: 4, 1
+Path start: 1, 0 >> Path end: 2, 0
+Path start: 4, 2 >> Path end: 4, 3
+_______________________________________________________________________
+
+The following paths are connected:
+Connected Paths >> start: 0, 0 >> end: 0, 1
+Connected Paths >> start: 1, 3 >> end: 2, 3
+Connected Paths >> start: 1, 2 >> end: 2, 2
+Connected Paths >> start: 2, 2 >> end: 3, 2
+Connected Paths >> start: 3, 1 >> end: 3, 2
+Connected Paths >> start: 2, 1 >> end: 3, 1
+Connected Paths >> start: 0, 2 >> end: 1, 2
+Connected Paths >> start: 3, 3 >> end: 4, 3
+Connected Paths >> start: 2, 0 >> end: 3, 0
+Connected Paths >> start: 3, 0 >> end: 4, 0
+Connected Paths >> start: 4, 0 >> end: 5, 0
+Connected Paths >> start: 4, 1 >> end: 5, 1
+Connected Paths >> start: 4, 1 >> end: 4, 2
+Connected Paths >> start: 5, 0 >> end: 5, 1
+Connected Paths >> start: 5, 0 >> end: 5, 1
+Connected Paths >> start: 5, 2 >> end: 5, 3
+Connected Paths >> start: 5, 1 >> end: 5, 2
+Connected Paths >> start: 5, 1 >> end: 5, 2
+Connected Paths >> start: 4, 3 >> end: 5, 3
+Connected Paths >> start: 4, 3 >> end: 5, 3
+Connected Paths >> start: 3, 2 >> end: 4, 2
+Connected Paths >> start: 3, 2 >> end: 4, 2
+Connected Paths >> start: 1, 1 >> end: 2, 1
+Connected Paths >> start: 2, 3 >> end: 3, 3
+Connected Paths >> start: 2, 3 >> end: 3, 3
+Connected Paths >> start: 0, 2 >> end: 0, 3
+Connected Paths >> start: 0, 1 >> end: 1, 1
+Connected Paths >> start: 0, 1 >> end: 1, 1
+Connected Paths >> start: 1, 0 >> end: 1, 1
+_______________________________________________________________________
+
+No. of Set in Maze : 1
+No. of leftover paths : 15
+Left over Paths >> start: 2, 1 >> end: 2, 2
+Left over Paths >> start: 1, 2 >> end: 1, 3
+Left over Paths >> start: 2, 0 >> end: 2, 1
+Left over Paths >> start: 2, 2 >> end: 2, 3
+Left over Paths >> start: 3, 2 >> end: 3, 3
+Left over Paths >> start: 4, 0 >> end: 4, 1
+Left over Paths >> start: 3, 0 >> end: 3, 1
+Left over Paths >> start: 0, 3 >> end: 1, 3
+Left over Paths >> start: 0, 0 >> end: 1, 0
+Left over Paths >> start: 1, 1 >> end: 1, 2
+Left over Paths >> start: 0, 1 >> end: 0, 2
+Left over Paths >> start: 4, 2 >> end: 5, 2
+Left over Paths >> start: 3, 1 >> end: 4, 1
+Left over Paths >> start: 1, 0 >> end: 2, 0
+Left over Paths >> start: 4, 2 >> end: 4, 3
+_______________________________________________________________________
+
+Inter connectivity applied to Dungeon:
+Paths Connected >> start: 0, 0 >> end: 0, 1
+Paths Connected >> start: 1, 3 >> end: 2, 3
+Paths Connected >> start: 1, 2 >> end: 2, 2
+Paths Connected >> start: 2, 2 >> end: 3, 2
+Paths Connected >> start: 3, 1 >> end: 3, 2
+Paths Connected >> start: 2, 1 >> end: 3, 1
+Paths Connected >> start: 0, 2 >> end: 1, 2
+Paths Connected >> start: 3, 3 >> end: 4, 3
+_______________________________________________________________________
+
+No. of nodes which are tunnels: 14
+Dungeon tunnel Edges are : 1, 3
+Dungeon tunnel Edges are : 3, 1
+Dungeon tunnel Edges are : 2, 1
+Dungeon tunnel Edges are : 3, 3
+Dungeon tunnel Edges are : 2, 0
+Dungeon tunnel Edges are : 3, 0
+Dungeon tunnel Edges are : 4, 0
+Dungeon tunnel Edges are : 4, 1
+Dungeon tunnel Edges are : 5, 0
+Dungeon tunnel Edges are : 5, 2
+Dungeon tunnel Edges are : 5, 1
+Dungeon tunnel Edges are : 4, 3
+Dungeon tunnel Edges are : 3, 2
+Dungeon tunnel Edges are : 1, 2
+_______________________________________________________________________
+
+No. of Caves in Dungeon is : 17
+20% of 17 Caves is : 3, so treasure will be allocated for 3 Caves
+Treasure cave node 4, 3 and the treasure allocated is ( Diamond : false, Ruby : true, Sapphire : true )
+Treasure cave node 1, 1 and the treasure allocated is ( Diamond : true, Ruby : true, Sapphire : false )
+Treasure cave node 1, 0 and the treasure allocated is ( Diamond : true, Ruby : false, Sapphire : true )
+_______________________________________________________________________
+
+Dungeon is successfully generated, setting player start and end position
+The player START position is (5, 1).
+The player END position is (1, 2) which has 12 possible paths from start position of the player.
+Player start and end position has been set.
+_______________________________________________________________________
+
+
+THE GAME HAS BEGUN
+
+This is a Non-Wrapping Dungeon
+The player START position is (5, 1).
+The player END position is (1, 2).
+You can move the player now by typing N - for North, E - for East, S - for South, W - for West.
+
+Treasure collected so far : (Diamond - 0, Ruby - 0, Sapphire - 0)
+The player is currently at (5, 1)
+Possible moves are (North[5, 0]:true || East[6, 1]:false || South[5, 2]:true || West[4, 1]:true)
+Treasure details of the cave where player currently at - Diamond : false, Ruby : false, Sapphire : false
+
+Please input your move [case-sensitive] (N/E/S/W):
+S
+
+Move accepted & player successfully moved to the next location
+Treasure collected so far : (Diamond - 0, Ruby - 0, Sapphire - 0)
+The player is currently at (5, 2)
+Possible moves are (North[5, 1]:true || East[6, 2]:false || South[5, 3]:true || West[4, 2]:false)
+Treasure details of the cave where player currently at - Diamond : false, Ruby : false, Sapphire : false
+
+Please input your move [case-sensitive] (N/E/S/W):
+W
+The input move West is not valid for this Cave (5, 2), the possible moves are (West[4, 2]:false || North[5, 1]:true || East[6, 2]:false || South[5, 3]:true)
+
+Input your move again [case-sensitive] (N/E/S/W):
+S
+
+Move accepted & player successfully moved to the next location
+Treasure collected so far : (Diamond - 0, Ruby - 0, Sapphire - 0)
+The player is currently at (5, 3)
+Possible moves are (North[5, 2]:true || East[6, 3]:false || South[5, 4]:false || West[4, 3]:true)
+Treasure details of the cave where player currently at - Diamond : false, Ruby : false, Sapphire : false
+
+Please input your move [case-sensitive] (N/E/S/W):
+W
+
+Move accepted & player successfully moved to the next location
+Treasure collected so far : (Diamond - 0, Ruby - 1, Sapphire - 1)
+The player is currently at (4, 3)
+Possible moves are (North[4, 2]:false || East[5, 3]:true || South[4, 4]:false || West[3, 3]:true)
+Treasure details of the cave where player currently at - Diamond : false, Ruby : true, Sapphire : true
+
+Please input your move [case-sensitive] (N/E/S/W):
+W
+
+Move accepted & player successfully moved to the next location
+Treasure collected so far : (Diamond - 0, Ruby - 1, Sapphire - 1)
+The player is currently at (3, 3)
+Possible moves are (North[3, 2]:true || East[4, 3]:true || South[3, 4]:false || West[2, 3]:true)
+Treasure details of the cave where player currently at - Diamond : false, Ruby : false, Sapphire : false
+
+Please input your move [case-sensitive] (N/E/S/W):
+W
+
+Move accepted & player successfully moved to the next location
+Treasure collected so far : (Diamond - 0, Ruby - 1, Sapphire - 1)
+The player is currently at (2, 3)
+Possible moves are (North[2, 2]:true || East[3, 3]:true || South[2, 4]:false || West[1, 3]:true)
+Treasure details of the cave where player currently at - Diamond : false, Ruby : false, Sapphire : false
+
+Please input your move [case-sensitive] (N/E/S/W):
+W
+
+Move accepted & player successfully moved to the next location
+Treasure collected so far : (Diamond - 0, Ruby - 1, Sapphire - 1)
+The player is currently at (1, 3)
+Possible moves are (North[1, 2]:true || East[2, 3]:true || South[1, 4]:false || West[0, 3]:false)
+Treasure details of the cave where player currently at - Diamond : false, Ruby : false, Sapphire : false
+
+Please input your move [case-sensitive] (N/E/S/W):
+N
+
+Move accepted & player successfully moved to the next location
+Treasure collected so far : (Diamond - 0, Ruby - 1, Sapphire - 1)
+The player is currently at (1, 2)
+Possible moves are (North[1, 1]:true || East[2, 2]:true || South[1, 3]:true || West[0, 2]:true)
+Treasure details of the cave where player currently at - Diamond : false, Ruby : false, Sapphire : false
+Congratulations!!!
+You have successfully reached the destination.
+#................Game completed................#
+
+Process finished with exit code 0
