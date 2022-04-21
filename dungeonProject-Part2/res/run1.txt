@@ -1,0 +1,273 @@
+Number of Rows : 4
+Number of Columns : 6
+Interconnectivity : 8
+Percentage of Treasure : 20
+Wrapping : true
+Number of Otyughs : 4
+_______________________________________________________________________
+
+20% of 14 Caves is : 2, so treasure will be allocated for 2 Caves
+Dungeon is successfully generated, setting player start and end position
+The player START position is (3, 1).
+The player END position is (5, 3) which has 11 possible paths from start position of the player.
+
+4 Otyughs has been allocated in the Game
+Apart from 3 default Arrow to start the game, 25 more Arrows has been allocated to kill 4 Otyughs, within 1 Cave(s) and 1 Tunnel(s).
+_______________________________________________________________________
+
+
+THE GAME HAS BEGUN
+
+This is a Wrapping Dungeon
+The player START position is (3, 1).
+The player END position is (5, 3).
+You can move the player now by typing N - for North, E - for East, S - for South, W - for West.
+
+_______________________________________________________________________
+
+Number of Arrows the Player has :3
+Treasures collected by the player so far : (Diamond - 0, Ruby - 0, Sapphire - 0)
+You are in a tunnel at (3, 1)
+
+Possible moves are (North[3, 0]:false || East[4, 1]:true || South[3, 2]:true || West[2, 1]:true)
+
+You smell something terrible nearby
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to?, you are in a tunnel at (3, 1) and possible moves are (North[3, 0]:false || East[4, 1]:true || South[3, 2]:true || West[2, 1]:true)
+
+Please input your move [case-sensitive] (N/E/S/W):
+E
+
+Move accepted & player successfully moved to the next location
+Number of Arrows the Player has :3
+Treasures collected by the player so far : (Diamond - 0, Ruby - 0, Sapphire - 0)
+You are in a tunnel at (4, 1)
+
+Possible moves are (North[4, 0]:true || East[5, 1]:true || South[4, 2]:true || West[3, 1]:true)
+You find 3 arrows here.
+You find treasure here.
+Diamond : 1
+
+You smell something terrible nearby
+Move, Pickup, or Shoot (M-P-S)?
+P
+What (Treasure, Arrow)?
+Arrow
+You pick up 3 Arrow(s)
+Number of Arrows the Player has :6
+Treasures collected by the player so far : (Diamond - 0, Ruby - 0, Sapphire - 0)
+You are in a tunnel at (4, 1)
+
+Possible moves are (North[4, 0]:true || East[5, 1]:true || South[4, 2]:true || West[3, 1]:true)
+You find treasure here.
+Diamond : 1
+
+You smell something terrible nearby
+Move, Pickup, or Shoot (M-P-S)?
+P
+What (Treasure, Arrow)?
+Treasure
+You pick up 1 Diamonds, 0 Rubies, 0 Sapphires
+Number of Arrows the Player has :6
+Treasures collected by the player so far : (Diamond - 1, Ruby - 0, Sapphire - 0)
+You are in a tunnel at (4, 1)
+
+Possible moves are (North[4, 0]:true || East[5, 1]:true || South[4, 2]:true || West[3, 1]:true)
+
+You smell something terrible nearby
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to?, you are in a tunnel at (4, 1) and possible moves are (North[4, 0]:true || East[5, 1]:true || South[4, 2]:true || West[3, 1]:true)
+
+Please input your move [case-sensitive] (N/E/S/W):
+N
+
+Move accepted & player successfully moved to the next location
+Number of Arrows the Player has :6
+Treasures collected by the player so far : (Diamond - 1, Ruby - 0, Sapphire - 0)
+You are in a tunnel at (4, 0)
+
+Possible moves are (North[4, 3]:true || East[5, 0]:true || South[4, 1]:true || West[3, 0]:true)
+
+You smell something terrible nearby
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to?, you are in a tunnel at (4, 0) and possible moves are (North[4, 3]:true || East[5, 0]:true || South[4, 1]:true || West[3, 0]:true)
+
+Please input your move [case-sensitive] (N/E/S/W):
+S
+
+Move accepted & player successfully moved to the next location
+Number of Arrows the Player has :6
+Treasures collected by the player so far : (Diamond - 1, Ruby - 0, Sapphire - 0)
+You are in a tunnel at (4, 1)
+
+Possible moves are (North[4, 0]:true || East[5, 1]:true || South[4, 2]:true || West[3, 1]:true)
+
+You smell something terrible nearby
+Move, Pickup, or Shoot (M-P-S)?
+T
+Invalid input, try again.
+Pickup, or Shoot (M-P-S)?
+S
+Where to?, you are in a tunnel at (4, 1) and possible directions are (North[4, 0]:true || East[5, 1]:true || South[4, 2]:true || West[3, 1]:true)
+
+Please input the direction to shoot [case-sensitive] (N/E/S/W):
+S
+No. of caves (1-5)?
+1
+
+You hear a great howl in the distance
+Number of Arrows the Player has :5
+Treasures collected by the player so far : (Diamond - 1, Ruby - 0, Sapphire - 0)
+You are in a tunnel at (4, 1)
+
+Possible moves are (North[4, 0]:true || East[5, 1]:true || South[4, 2]:true || West[3, 1]:true)
+
+You smell something terrible nearby
+Move, Pickup, or Shoot (M-P-S)?
+S
+Where to?, you are in a tunnel at (4, 1) and possible directions are (North[4, 0]:true || East[5, 1]:true || South[4, 2]:true || West[3, 1]:true)
+
+Please input the direction to shoot [case-sensitive] (N/E/S/W):
+S
+No. of caves (1-5)?
+1
+
+You killed the Otyugh, present in the location (4, 2)
+Number of Arrows the Player has :4
+Treasures collected by the player so far : (Diamond - 1, Ruby - 0, Sapphire - 0)
+You are in a tunnel at (4, 1)
+
+Possible moves are (North[4, 0]:true || East[5, 1]:true || South[4, 2]:true || West[3, 1]:true)
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to?, you are in a tunnel at (4, 1) and possible moves are (North[4, 0]:true || East[5, 1]:true || South[4, 2]:true || West[3, 1]:true)
+
+Please input your move [case-sensitive] (N/E/S/W):
+S
+
+Move accepted & player successfully moved to the next location
+Number of Arrows the Player has :4
+Treasures collected by the player so far : (Diamond - 1, Ruby - 0, Sapphire - 0)
+You are in a tunnel at (4, 2)
+
+Possible moves are (North[4, 1]:true || East[5, 2]:true || South[4, 3]:true || West[3, 2]:true)
+You find 3 arrows here.
+
+You smell something terrible nearby
+Move, Pickup, or Shoot (M-P-S)?
+P
+What (Treasure, Arrow)?
+Arrow
+You pick up 3 Arrow(s)
+Number of Arrows the Player has :7
+Treasures collected by the player so far : (Diamond - 1, Ruby - 0, Sapphire - 0)
+You are in a tunnel at (4, 2)
+
+Possible moves are (North[4, 1]:true || East[5, 2]:true || South[4, 3]:true || West[3, 2]:true)
+
+You smell something terrible nearby
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to?, you are in a tunnel at (4, 2) and possible moves are (North[4, 1]:true || East[5, 2]:true || South[4, 3]:true || West[3, 2]:true)
+
+Please input your move [case-sensitive] (N/E/S/W):
+S
+
+Move accepted & player successfully moved to the next location
+Number of Arrows the Player has :7
+Treasures collected by the player so far : (Diamond - 1, Ruby - 0, Sapphire - 0)
+You are in a tunnel at (4, 3)
+
+Possible moves are (North[4, 2]:true || East[5, 3]:false || South[4, 0]:true || West[3, 3]:false)
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to?, you are in a tunnel at (4, 3) and possible moves are (North[4, 2]:true || East[5, 3]:false || South[4, 0]:true || West[3, 3]:false)
+
+Please input your move [case-sensitive] (N/E/S/W):
+N
+
+Move accepted & player successfully moved to the next location
+Number of Arrows the Player has :7
+Treasures collected by the player so far : (Diamond - 1, Ruby - 0, Sapphire - 0)
+You are in a tunnel at (4, 2)
+
+Possible moves are (North[4, 1]:true || East[5, 2]:true || South[4, 3]:true || West[3, 2]:true)
+
+You smell something terrible nearby
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to?, you are in a tunnel at (4, 2) and possible moves are (North[4, 1]:true || East[5, 2]:true || South[4, 3]:true || West[3, 2]:true)
+
+Please input your move [case-sensitive] (N/E/S/W):
+e
+Invalid input...!
+Invalid input, try again.
+Possible moves & this is casesensitive (W/N/E/S):
+E
+
+Move accepted & player successfully moved to the next location
+Number of Arrows the Player has :7
+Treasures collected by the player so far : (Diamond - 1, Ruby - 0, Sapphire - 0)
+You are in a tunnel at (5, 2)
+
+Possible moves are (North[5, 1]:false || East[0, 2]:true || South[5, 3]:true || West[4, 2]:true)
+You find 4 arrows here.
+
+You smell something terrible nearby
+Move, Pickup, or Shoot (M-P-S)?
+P
+What (Treasure, Arrow)?
+Arrow
+You pick up 4 Arrow(s)
+Number of Arrows the Player has :11
+Treasures collected by the player so far : (Diamond - 1, Ruby - 0, Sapphire - 0)
+You are in a tunnel at (5, 2)
+
+Possible moves are (North[5, 1]:false || East[0, 2]:true || South[5, 3]:true || West[4, 2]:true)
+
+You smell something terrible nearby
+Move, Pickup, or Shoot (M-P-S)?
+S
+Where to?, you are in a tunnel at (5, 2) and possible directions are (North[5, 1]:false || East[0, 2]:true || South[5, 3]:true || West[4, 2]:true)
+
+Please input the direction to shoot [case-sensitive] (N/E/S/W):
+S
+No. of caves (1-5)?
+1
+You hear a great howl in the distance
+Number of Arrows the Player has :10
+Treasures collected by the player so far : (Diamond - 1, Ruby - 0, Sapphire - 0)
+You are in a tunnel at (5, 2)
+
+Possible moves are (North[5, 1]:false || East[0, 2]:true || South[5, 3]:true || West[4, 2]:true)
+
+You smell something terrible nearby
+Move, Pickup, or Shoot (M-P-S)?
+S
+Where to?, you are in a tunnel at (5, 2) and possible directions are (North[5, 1]:false || East[0, 2]:true || South[5, 3]:true || West[4, 2]:true)
+
+Please input the direction to shoot [case-sensitive] (N/E/S/W):
+S
+No. of caves (1-5)?
+1
+
+You killed the Otyugh, present in the location (5, 3)
+Number of Arrows the Player has :9
+Treasures collected by the player so far : (Diamond - 1, Ruby - 0, Sapphire - 0)
+You are in a tunnel at (5, 2)
+
+Possible moves are (North[5, 1]:false || East[0, 2]:true || South[5, 3]:true || West[4, 2]:true)
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to?, you are in a tunnel at (5, 2) and possible moves are (North[5, 1]:false || East[0, 2]:true || South[5, 3]:true || West[4, 2]:true)
+
+Please input your move [case-sensitive] (N/E/S/W):
+S
+
+Move accepted & player successfully moved to the next location
+Congratulations.....!!!
+You have successfully reached the destination.
+#................Game completed................#

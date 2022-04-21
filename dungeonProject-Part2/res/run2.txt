@@ -1,0 +1,101 @@
+Number of Rows : 4
+Number of Columns : 6
+Interconnectivity : 8
+Percentage of Treasure : 20
+Wrapping : false
+Number of Otyughs : 2
+_______________________________________________________________________
+
+20% of 19 Caves is : 3, so treasure will be allocated for 3 Caves
+Dungeon is successfully generated, setting player start and end position
+The player START position is (0, 1).
+The player END position is (5, 1) which has 13 possible paths from start position of the player.
+
+2 Otyughs has been allocated in the Game
+Apart from 3 default Arrow to start the game, 15 more Arrows has been allocated to kill 2 Otyughs, within 2 Cave(s) and 1 Tunnel(s).
+_______________________________________________________________________
+
+
+THE GAME HAS BEGUN
+
+This is a Non-Wrapping Dungeon
+The player START position is (0, 1).
+The player END position is (5, 1).
+You can move the player now by typing N - for North, E - for East, S - for South, W - for West.
+
+_______________________________________________________________________
+
+Number of Arrows the Player has :3
+Treasures collected by the player so far : (Diamond - 0, Ruby - 0, Sapphire - 0)
+You are in a cave at (0, 1)
+
+Possible moves are (North[0, 0]:false || East[1, 1]:true || South[0, 2]:true || West[-1, 1]:false)
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to?, you are in a cave at (0, 1) and possible moves are (North[0, 0]:false || East[1, 1]:true || South[0, 2]:true || West[-1, 1]:false)
+
+Please input your move [case-sensitive] (N/E/S/W):
+E
+
+Move accepted & player successfully moved to the next location
+Number of Arrows the Player has :3
+Treasures collected by the player so far : (Diamond - 0, Ruby - 0, Sapphire - 0)
+You are in a cave at (1, 1)
+
+Possible moves are (North[1, 0]:true || East[2, 1]:true || South[1, 2]:false || West[0, 1]:true)
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to?, you are in a cave at (1, 1) and possible moves are (North[1, 0]:true || East[2, 1]:true || South[1, 2]:false || West[0, 1]:true)
+
+Please input your move [case-sensitive] (N/E/S/W):
+E
+
+Move accepted & player successfully moved to the next location
+Number of Arrows the Player has :3
+Treasures collected by the player so far : (Diamond - 0, Ruby - 0, Sapphire - 0)
+You are in a cave at (2, 1)
+
+Possible moves are (North[2, 0]:false || East[3, 1]:true || South[2, 2]:true || West[1, 1]:true)
+
+You smell something little nearby
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to?, you are in a cave at (2, 1) and possible moves are (North[2, 0]:false || East[3, 1]:true || South[2, 2]:true || West[1, 1]:true)
+
+Please input your move [case-sensitive] (N/E/S/W):
+E
+
+Move accepted & player successfully moved to the next location
+Number of Arrows the Player has :3
+Treasures collected by the player so far : (Diamond - 0, Ruby - 0, Sapphire - 0)
+You are in a cave at (3, 1)
+
+Possible moves are (North[3, 0]:true || East[4, 1]:true || South[3, 2]:true || West[2, 1]:true)
+
+You smell something terrible nearby
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to?, you are in a cave at (3, 1) and possible moves are (North[3, 0]:true || East[4, 1]:true || South[3, 2]:true || West[2, 1]:true)
+
+Please input your move [case-sensitive] (N/E/S/W):
+E
+
+Move accepted & player successfully moved to the next location
+Number of Arrows the Player has :3
+Treasures collected by the player so far : (Diamond - 0, Ruby - 0, Sapphire - 0)
+You are in a cave at (4, 1)
+
+Possible moves are (North[4, 0]:true || East[5, 1]:true || South[4, 2]:true || West[3, 1]:true)
+
+You smell something terrible nearby
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to?, you are in a cave at (4, 1) and possible moves are (North[4, 0]:true || East[5, 1]:true || South[4, 2]:true || West[3, 1]:true)
+
+Please input your move [case-sensitive] (N/E/S/W):
+E
+
+Move accepted & player successfully moved to the next location
+Chomp, chomp, chomp, you are eaten by an Otyugh!
+Better luck next time
+#................Game over................#
